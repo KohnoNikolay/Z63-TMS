@@ -1,0 +1,5 @@
+print("fjekfjkgj")
+mkdir_file = open("FirstWork", "w+")
+mkdir_file.write("Создание файла через PyCharm.")
+mkdir_file.close()
+print("Greate")
