@@ -1,5 +1,5 @@
 print("fjekfjkgj")
-mkdir_file = open("FirstWork", "w+")
-mkdir_file.write("2 string")
+mkdir_file = open("FirstWork", "a")
+mkdir_file.write(f"6 string\n")
 mkdir_file.close()
 print("Greate")
